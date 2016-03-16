@@ -1,7 +1,7 @@
 # Summary
 
 * [0.1开学典礼](chapter00/perface.md)
-* [0.2自序]（chapter00/wirte.md）
+* [0.2自序](chapter00/write.md)
 * [第一讲：教不会的写作](chapter01/README.md)
    * [笔记](chapter01/note.md)
    * [作业](chapter01/assignment.md)
